@@ -9,3 +9,7 @@ _ _ _
 - All products are dynamically created using the products.json file
 - some css
 
+
+
+NOTE: View in desktop
+
